@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:thepokedexapp/pokemonpageres.dart';
+import 'package:thepokedexapp/data/pokemonpageres.dart';
 
 abstract class PokemonState {}
 
